@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="97.008646">
+    <testcase classname="Validation of Lumens application" name="Account creation and Sign in" time="97.008646">
+        <system-out><![CDATA[Given Navigate to Application URL...........................................passed
+When Verify the title of Home Page..........................................passed
+Then User Sign in the application with User id and Password.................passed
+Then User Search item.......................................................passed
+Then Click on Add to cart...................................................passed
+Then Navigate to the Cart and validate the item.............................passed
+]]></system-out>
+    </testcase>
+</testsuite>
